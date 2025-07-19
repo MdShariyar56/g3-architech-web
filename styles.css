@@ -175,6 +175,13 @@ color: #727272;
 .sponsor-companies img{
   filter: grayscale(100%);
 }
+footer{
+  border-radius: 8px;
+  padding: 20px ;
+  margin-top: 20px;
+  text-align: center;
+
+}
 /* responsive mwdia query*/
 @media screen and (max-width: 576px) {
     .navbar,
